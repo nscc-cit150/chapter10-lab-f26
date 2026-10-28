@@ -1,11 +1,16 @@
 # Chapter 10 – Lab 1 
-Programming Example – Juice Machine (Pages 707-721) 
 ## Instructions: 
-This lab is made up of one assignment from the Programming Examples in the book.   
+Add an address structure to the Lab10-1.cpp code. For simplicity, the address structure needs only contain two strings representing the state and city. The address structure needs to be a part of the student structure. Make sure the code allows you to enter and print all data for all students in the array. You may assume all individual data items are made up of only a single word.
+
+Update the code for input_student() and output_student() to work with the new address structure.
+
+Create and test a 3 argument constructor that works with the new address structure.
 ## Grading:  
 2 – General, compiles, comments, proper indentation, etc  
-8 – JuiceMachine.cpp  
- 
+4 – Structure use in input_student()  
+4 - Structure use in output_student()  
+4 - Structure use in 3 argument constructor  
+  
 Total: 10 
 ##  
 # Chapter 10 – Lab 2 
