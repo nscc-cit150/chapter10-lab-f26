@@ -11,7 +11,7 @@ Create and test a 3 argument constructor that works with the new address structu
 4 - Structure use in output_student()  
 4 - Structure use in 3 argument constructor  
   
-Total: 10 
+Total: 14 
 ##  
 # Chapter 10 – Lab 2 
 ## Instructions: 
